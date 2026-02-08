@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+ 
+
+# Python
+
+task-manager-backend/venv/
+task-manager-backend/__pycache__/
+task-manager-backend/*.pyc
+task-manager-backend/*.db
